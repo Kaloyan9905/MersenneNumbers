@@ -4,11 +4,7 @@
 using namespace std;
 
 int main() {
-    int mersenneNumber = 15;
-
-    if (isMersenneNumber(mersenneNumber)) {
-        cout << isMersenneNumberPrime(mersenneNumber) << endl;
-    }
+    showMersenneNumbersInInterval(1, 1000);
 
     return 0;
 }
