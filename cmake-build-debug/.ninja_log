@@ -1,0 +1,27 @@
+# ninja log v6
+4	539	7578028382987920	CMakeFiles/MersenneNumbers.dir/main.cpp.obj	fd10356b1ffcfffe
+4	554	7578028169838040	CMakeFiles/MersenneNumbers.dir/source/help.cpp.obj	95af32e4b8a37ccf
+14	876	7577147756252464	CMakeFiles/MersenneNumbers.dir/numbers.cpp.obj	915f2e90ea5d28f
+539	909	7578028388339993	MersenneNumbers.exe	7c886d2ce880e921
+1	248	7578028844509225	build.ninja	dae2a8da17f72bd7
+16	911	7578017857847381	CMakeFiles/MersenneNumbers.dir/source/divisors.cpp.obj	ddf5072a200b4fcc
+13	769	7578025396086398	CMakeFiles/MersenneNumbers.dir/source/numbers.cpp.obj	78b6ae96cc96895e
+2	7	7577936762518981	clean	4f734097cb7bd58d
+4	605	7578031239468135	CMakeFiles/MersenneNumbers.dir/main.cpp.obj	fd10356b1ffcfffe
+12	753	7578031239538132	CMakeFiles/MersenneNumbers.dir/source/test.cpp.obj	542194b069801b39
+753	1011	7578031246955229	MersenneNumbers.exe	e9f0c31fe7bd5677
+3	488	7578032795460609	CMakeFiles/MersenneNumbers.dir/main.cpp.obj	fd10356b1ffcfffe
+11	736	7578032795540614	CMakeFiles/MersenneNumbers.dir/source/test.cpp.obj	542194b069801b39
+736	964	7578032802794711	MersenneNumbers.exe	e9f0c31fe7bd5677
+5	554	7578033375588219	CMakeFiles/MersenneNumbers.dir/main.cpp.obj	fd10356b1ffcfffe
+555	814	7578033381081152	MersenneNumbers.exe	e9f0c31fe7bd5677
+4	290	7578035713348566	CMakeFiles/MersenneNumbers.dir/source/divisors.cpp.obj	ddf5072a200b4fcc
+13	697	7578035713438562	CMakeFiles/MersenneNumbers.dir/source/test.cpp.obj	542194b069801b39
+697	999	7578035720279362	MersenneNumbers.exe	e9f0c31fe7bd5677
+4	504	7578036280414503	CMakeFiles/MersenneNumbers.dir/source/test.cpp.obj	542194b069801b39
+504	744	7578036285415288	MersenneNumbers.exe	e9f0c31fe7bd5677
+4	312	7578037194222799	CMakeFiles/MersenneNumbers.dir/source/divisors.cpp.obj	ddf5072a200b4fcc
+312	624	7578037197299379	MersenneNumbers.exe	e9f0c31fe7bd5677
+4	485	7578038330647267	CMakeFiles/MersenneNumbers.dir/main.cpp.obj	fd10356b1ffcfffe
+11	681	7578038330727278	CMakeFiles/MersenneNumbers.dir/source/numbers.cpp.obj	78b6ae96cc96895e
+681	923	7578038337425857	MersenneNumbers.exe	e9f0c31fe7bd5677
