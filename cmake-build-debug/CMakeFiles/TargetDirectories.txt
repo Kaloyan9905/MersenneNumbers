@@ -1,3 +1,0 @@
-C:/CLionProjects/MersenneNumbers/cmake-build-debug/CMakeFiles/MersenneNumbers.dir
-C:/CLionProjects/MersenneNumbers/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/CLionProjects/MersenneNumbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
